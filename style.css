@@ -1,0 +1,59 @@
+
+
+footer{
+  background:#ccc;
+  position:absolute;
+  bottom:0;
+  width:100%;
+  padding-top:50px;
+  
+}
+
+.container{
+	background-color: rgba(255,255,255,0.4);
+    border-radius: 50%;
+    margin: 100px auto;
+    padding: 100px;
+    height: 605px;
+    width: 590px;
+}
+
+p{
+	text-align: center;
+}
+
+#CtoF:hover{
+	color: #337ab7;
+}
+
+
+body{
+	background-color: #aaa;
+	background-size: cover;
+	background-position: fixed;
+	-webkit-transition: background-image 0.2s;
+    transition: background-image 0.2s;
+
+}
+
+h1{
+	font-family: Pacifico;
+	color: #111;
+	font-size: 50pt;
+	text-align: center;
+	text-shadow: 0 0 3px black;
+}
+
+h2{
+	font-family: Cabin;
+	color: #111;
+	font-size: 40pt;
+	text-align: center;
+}
+h3{
+	font-family: monospace;
+	color: #111;
+	font-size: 30pt;
+	text-align: center;
+}
+
